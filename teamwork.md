@@ -5,3 +5,5 @@
 It provides the underpinnings for today’s computer applications as well as the foundations for tomorrow’s computing infrastructure.
 
 The goal of this book is to establish a functional understanding of computer science:
+The goal of this book is to establish a functional
+understanding of computer science:
